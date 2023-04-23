@@ -8,7 +8,7 @@ body{
     background-position: 600px;
     color:white ;
     text-size-adjust: 3em;
-    background-size: 2000px 500px;
+    background-size: cover;
     background-repeat: no-repeat;
   }
   hr{
